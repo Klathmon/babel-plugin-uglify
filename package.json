@@ -4,7 +4,7 @@
   "description": "UglifyJS integration for Babel",
   "repository": "RReverser/babel-plugin-uglify",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "dependencies": {
     "uglify-js": "^2.4.24"
   },
